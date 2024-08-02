@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+ <head>
+   <meta charset="utf-8" />  
+   <title> THE EAGLES-GROUP </title>
+ </head>
+
+  <body>
+  <a name="THE EAGLES-GROUP"> </a>
+    <h1> THE EAGLES-GROUP </h1>
+    <ul>
+      <li><p><a href="#ACCEUIL"> ACCEUIL</a></p></li>
+      <li><p><a href="#A PROPOS"> A PROPOS</a></p></li>
+      <li><p><a href="#TRAVAIL"> TRAVAIL</a></p></li>
+      <li><p><a href="#CV"> CV</a></p></li>
+      <li><p><a href="#CONTACT"> CONTACT</a></p></li>
+    <nav>
+    <ol type="1"> 
+    <a name="ACCEUIL"> </a>
+      <h1><li><a href="/ACCEUIL/"> ACCEUIL <section></li></h1> 
+      </section>
+      </a> 
+      <a name="A PROPOS"> </a>
+      <h1><li><a href="/A PROPOS/"> A PROPOS <section></li></h1> 
+      <img src="logo.png" alt="Eagles" aligner>
+      <h2>Eagles-Group History</h2>
+      The Eagles-Group is a Tle D study group that starded between October and November 2021 with Mr Koffi Eliézer and Mr Gola Christ after classes in the Tle C room at the municipal high school 2 of Koumassi.
+      </section>
+
+      <section>
+      <h2>Eagles-Group's Symbol</h2>
+      <p>The symbol of the Eagles-Group is simply the Eagle.</p>
+        <img src ="data:image/jpeg;base64,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" alt="Eagle">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MBVnPIgOzsI?si=m0oxcM5cJhCB5Urs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </section>
+      </a> 
+      <a name="TRAVAIL"> </a>
+      <h1><li><a href="/TRAVAIL/"> TRAVAIL <section></li></h1> 
+      <h2><p>Encadreur</p></h2>
+      <h2><p>Superviseur</p></h2>
+      <h2><p>Trésorière</p></h2>
+      </section>
+      </a> 
+      <a name="CV"> </a>
+      <h1><li><a href="/CV/"> CV <section></li></h1> 
+      <p><h2>BAC D,C ou E</h2></p>
+      <p><h2>Aimer le travail bien fait</h2></p>
+      <p><h2>Maitriser la matière de dispensation</h2></p>
+      </section>
+      </a> 
+      <a name="CONTACT"> </a>
+      <h1><li><a href="/CONTACT/"> CONTACT <section></li></h1>
+        <h2>0575981835 ou 0141487028</h2>
+        </section>
+      </a>
+      </ol>
+    </nav>
+    <form>
+      <label>Commentaire:</label>
+      <input type="text" placeholder="laissez un commentaire" />
+      </form>
+    <footer>
+  <p>Auteur: Koffi Eliézer</p>
+  <p>koffiemieneliezer@gmail.com  <p>
+</footer>
+    <p><a  href="#THE EAGLES-GROUP"> start of page </a></p>
+      <!-- -->
+  </body>
+
+</html>
